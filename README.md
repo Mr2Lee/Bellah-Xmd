@@ -1,6 +1,6 @@
-# BELLAH-X MD
+# MR LEE🌹 BOT
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +BELLAH-XMD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+GIDDY+TENNOR;RELEASED+12.12.2024" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +Mr-lee🌹 bots-XMD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+GIDDY+TENNOR;RELEASED+12.12.2024" alt="Typing SVG" /></a>
 
 
 
@@ -32,7 +32,7 @@
  <p align="center"><img src="https://profile-counter.glitch.me/{Bellah-XMD}/count.svg" alt="Tennor-modz :: Visitor's Count" old_src="https://profile-counter.glitch.me/{Tennor-modz}/count.svg" /></p>
 
 
-  <p align="center"> Meet bellah-Xmd, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. bellah_xmd whatsapp bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p
+  <p align="center"> Meet Mr-lee🌹, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before.Mr-lee bot whatsapp bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p
   
   <a href="https://github.com/Tennor-modz/SUHAIL-XMD/fork"><img title="Bellah-XMD" src="https://img.shields.io/badge/FORK-Bellah XMD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
 
